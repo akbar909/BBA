@@ -73,7 +73,7 @@ export default function ContactForm() {
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-          {/* Contact Information */}
+         
           <div className="space-y-8">
             <Card>
               <CardHeader>
